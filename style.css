@@ -1,7 +1,18 @@
 body{
-    Background:#efefef;
+    Background-color:darkorange;
     font-family:serif;Garamond
 }
 h1{
-  font-size: 22px;
+  color: darkgrey;
+  font-size: 28px;
+  text-align:center;
+}
+h3{
+color: darkgreen;
+font-size: 22px;
+text-align: center
+}
+p{
+  text-align: justify;center
+  font-size:18px;
 }
