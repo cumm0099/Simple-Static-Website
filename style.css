@@ -1,6 +1,13 @@
-body{
-    Background-color:yellow;
+body, html{
     font-family:serif;Garamond
+    height: 100%;
+}
+.bg{
+  background-image: url("_image_van.jpg");
+  height: 100%
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 h1{
   font-size: 30px;
