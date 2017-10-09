@@ -1,24 +1,12 @@
-body, html{
-    font-family:serif;Garamond
+body, html {
     height: 100%;
-}
-.bg{
-  background-image: url("_image_van.jpg");
-  height: 100%
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+    margin:0;
+    text-align: center;
 }
 h1{
-  font-size: 30px;
-  text-align:left
+  font-size:50px;
+  text-align:center
 }
-h3{
-color: purple;
-font-size: 22px;
-text-align: Left
-}
-p{
-  text-align: justify;
-  font-size:18px;
+img{
+  image-orientation: center;
 }
