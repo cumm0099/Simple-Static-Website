@@ -1,29 +1,37 @@
 <?xml version="1.0"?>
-<?xml-stylesheet type="text/css" href="destinctions.css"?>
+<?xml-stylesheet type="text/css" href="distinctions.css"?>
 
 <Distinctions>
 	<Distinction.1>
 		<Name>Joe Marini</Name>
-		<phone type="mobile" primary="primary">(415) 555-4567</phone>
-		<phone type="work">(800) 555-9876</phone>
-		<phone type="fax">(510) 555-1234</phone>
+		<Description>School District </Description>
+		<phone type="work" primary="primary">(415) 555-4567</phone>
+		<phone type="cell">(800) 555-9876</phone>
 		<email>joe@joe.com</email>
 	</Distinction.1>
 
 	<Distinction.2>
-		<Name>Someone Else</Name>
-		<phone type="mobile">(415) 555-0000</phone>
-		<phone type="work" primary="primary">(800) 555-1111</phone>
-		<phone type="fax">(510) 555-2222</phone>
-		<email>someone@else.com</email>
+		<Name>Joe Marini</Name>
+		<Description>Employee</Description>
+		<phone type="work" primary="primary">(415) 555-4567</phone>
+		<phone type="cell">(800) 555-9876</phone>
+		<email>joe@joe.com</email>
 	</Distinction.2>
 
 	<Distinction.3>
-		<Name>Someone Else</Name>
-		<phone type="mobile">(415) 555-0000</phone>
-		<phone type="work" primary="primary">(800) 555-1111</phone>
-		<phone type="fax">(510) 555-2222</phone>
-		<email>someone@else.com</email>
+		<Name>Joe Marini</Name>
+		<Description>Drivers</Description>
+		<phone type="work" primary="primary">(415) 555-4567</phone>
+		<phone type="cell">(800) 555-9876</phone>
+		<email>joe@joe.com</email>
 	</Distinction.3>
+
+	<Distinction.4>
+		<Name>Joe Marini</Name>
+		<Description>Drivers</Description>
+		<phone type="work" primary="primary">(415) 555-4567</phone>
+		<phone type="cell">(800) 555-9876</phone>
+		<email>joe@joe.com</email>
+	</Distinction.4>
 
 </Distinctions>
