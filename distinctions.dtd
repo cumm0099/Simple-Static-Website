@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ELEMENT Distinctions (Name, description, phone+, email?)>
+<!ELEMENT Name (#PCDATA)>
+
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone type (work | cell) #REQUIRED>
+
+<!ELEMENT email (#PCDATA)>
