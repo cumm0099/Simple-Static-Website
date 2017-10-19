@@ -3,35 +3,34 @@
 
 <Distinctions>
 	<Distinction.1>
-		<Name>Joe Marini</Name>
-		<Description>School District </Description>
-		<phone type="work" primary="primary">(415) 555-4567</phone>
-		<phone type="cell">(800) 555-9876</phone>
-		<email>joe@joe.com</email>
+		<Name>Rick Chubb</Name>
+		<Description>School District</Description>
+		<phone type="work" primary="primary">(763)767-1804</phone>
+		<phone type="cell">(612) 290-5579</phone>
+		<email>randdchubb@aol.com</email>
 	</Distinction.1>
 
 	<Distinction.2>
-		<Name>Joe Marini</Name>
-		<Description>Employee</Description>
-		<phone type="work" primary="primary">(415) 555-4567</phone>
-		<phone type="cell">(800) 555-9876</phone>
-		<email>joe@joe.com</email>
+		<Name>Rick Chubb</Name>
+		<Description>Potential Employee</Description>
+		<phone type="work" primary="primary">(763)767-1804</phone>
+		<phone type="cell">(612) 290-5579</phone>
+		<email>randdchubb@aol.com</email>
 	</Distinction.2>
 
 	<Distinction.3>
-		<Name>Joe Marini</Name>
-		<Description>Drivers</Description>
-		<phone type="work" primary="primary">(415) 555-4567</phone>
-		<phone type="cell">(800) 555-9876</phone>
-		<email>joe@joe.com</email>
+		<Name>Doris Chubb</Name>
+		<Description> Current Drivers</Description>
+		<phone type="work" primary="primary">(763)767-1804</phone>
+		<phone type="cell">(612) 290-5577</phone>
+		<email>dorischubb@yahoo.com</email>
 	</Distinction.3>
 
 	<Distinction.4>
-		<Name>Joe Marini</Name>
-		<Description>Drivers</Description>
-		<phone type="work" primary="primary">(415) 555-4567</phone>
-		<phone type="cell">(800) 555-9876</phone>
-		<email>joe@joe.com</email>
+		<Name>Doris or Rick Chubb</Name>
+		<Description>New Clients</Description>
+		<phone type="work" primary="primary">(763)767-1804</phone>
+		<email>randdchubb@aol.com</email>
 	</Distinction.4>
 
 </Distinctions>
