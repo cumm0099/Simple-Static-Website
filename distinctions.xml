@@ -4,7 +4,7 @@
 <Distinctions>
 	<Distinction.1>
 		<Name>Rick Chubb</Name>
-		<Description>School District</Description>
+		<description>School District</description>
 		<phone type="work" primary="primary">(763)767-1804</phone>
 		<phone type="cell">(612) 290-5579</phone>
 		<email>randdchubb@aol.com</email>
@@ -12,7 +12,7 @@
 
 	<Distinction.2>
 		<Name>Rick Chubb</Name>
-		<Description>Potential Employee</Description>
+		<description>Potential Employee</description>
 		<phone type="work" primary="primary">(763)767-1804</phone>
 		<phone type="cell">(612) 290-5579</phone>
 		<email>randdchubb@aol.com</email>
@@ -20,7 +20,7 @@
 
 	<Distinction.3>
 		<Name>Doris Chubb</Name>
-		<Description> Current Drivers</Description>
+		<description> Current Drivers</description>
 		<phone type="work" primary="primary">(763)767-1804</phone>
 		<phone type="cell">(612) 290-5577</phone>
 		<email>dorischubb@yahoo.com</email>
@@ -28,7 +28,7 @@
 
 	<Distinction.4>
 		<Name>Doris or Rick Chubb</Name>
-		<Description>New Clients</Description>
+		<description>New Clients</description>
 		<phone type="work" primary="primary">(763)767-1804</phone>
 		<email>randdchubb@aol.com</email>
 	</Distinction.4>

@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!ELEMENT Distinctions (Name, description, phone+, email?)>
+<!ELEMENT Distinctions ANY>
 <!ELEMENT Name (#PCDATA)>
-
+<!ELEMENT description (#PCDATA)>
 <!ELEMENT phone (#PCDATA)>
-<!ATTLIST phone type (work | cell) #REQUIRED>
-
+<!ATTLIST phone type (work|cell) #REQUIRED>
+<!ATTLIST phone primary (primary) #IMPLIED>
 <!ELEMENT email (#PCDATA)>
+
+<!ELEMENT Distinction.1 (Name, description, phone+, email?)>
+
+<!ELEMENT Distinction.2 (Name, description, phone+, email?)>
+
+<!ELEMENT Distinction.3 (Name, description, phone+, email?)>
+
+<!ELEMENT Distinction.4 (Name, description, phone+, email?)>
