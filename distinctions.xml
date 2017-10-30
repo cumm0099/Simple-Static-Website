@@ -2,35 +2,35 @@
 <!DOCTYPE Distinctions SYSTEM "distinctions.dtd">
 
 <Distinctions>
-	<Distinction.1>
+	<Distinction>
 		<Name>Rick Chubb</Name>
 		<description>School District</description>
 		<phone type="work" primary="primary">(763)767-1804</phone>
 		<phone type="cell">(612) 290-5579</phone>
 		<email>randdchubb@aol.com</email>
-	</Distinction.1>
+	</Distinction>
 
-	<Distinction.2>
+	<Distinction>
 		<Name>Rick Chubb</Name>
 		<description>Potential Employee</description>
 		<phone type="work" primary="primary">(763)767-1804</phone>
 		<phone type="cell">(612) 290-5579</phone>
 		<email>randdchubb@aol.com</email>
-	</Distinction.2>
+	</Distinction>
 
-	<Distinction.3>
+	<Distinction>
 		<Name>Doris Chubb</Name>
 		<description> Current Drivers</description>
 		<phone type="work" primary="primary">(763)767-1804</phone>
 		<phone type="cell">(612) 290-5577</phone>
 		<email>dorischubb@yahoo.com</email>
-	</Distinction.3>
+	</Distinction>
 
-	<Distinction.4>
+	<Distinction>
 		<Name>Doris or Rick Chubb</Name>
 		<description>New Clients</description>
 		<phone type="work" primary="primary">(763)767-1804</phone>
 		<email>randdchubb@aol.com</email>
-	</Distinction.4>
+	</Distinction>
 
 </Distinctions>

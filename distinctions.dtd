@@ -8,10 +8,4 @@
 <!ATTLIST phone primary (primary) #IMPLIED>
 <!ELEMENT email (#PCDATA)>
 
-<!ELEMENT Distinction.1 (Name, description, phone+, email?)>
-
-<!ELEMENT Distinction.2 (Name, description, phone+, email?)>
-
-<!ELEMENT Distinction.3 (Name, description, phone+, email?)>
-
-<!ELEMENT Distinction.4 (Name, description, phone+, email?)>
+<!ELEMENT Distinction (Name, description, phone+, email?)>
